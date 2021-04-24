@@ -1,3 +1,7 @@
+# Desenvolvido por: João Victor Franco Fernandes (joao.fernandes@unesp.br)
+# Para utilizar o script é necessário ter o Google Chrome instalado no computador: https://www.google.com/intl/pt-BR/chrome/
+# Para utilizar o script é necessário ter o chromedriver de mesma versão do Google Chrome na pasta do script: https://chromedriver.chromium.org/downloads
+
 from selenium import webdriver
 import time
 import math
