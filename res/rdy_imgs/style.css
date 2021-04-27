@@ -1,0 +1,68 @@
+body{
+	color:white;
+	font-family: 'Montserrat', serif;
+	background-color: black;
+}
+.bg-altas{
+	background-image:url('https://lh5.googleusercontent.com/LqkkOBpDWQWIqTA5DuFsivYx9yX2b6CSH1_4W-0_Cmnc7d4YOVMYVzi0eGKAVy7DpBCkamZ1rTGLwPn2fiNYnwM=w1280');
+	background-repeat: no-repeat;
+}
+.bg-baixas{
+	background-image:url('https://lh6.googleusercontent.com/OrVIVZaJZv-NhKS-g4_-Wy7CBDUXLzOlKgArvTH5B55U6akqdzeH9jPuOviydNgsKXkJko8YyE41qioZmZVp-OE=w1280');
+	background-repeat: no-repeat;
+}
+.bg-movimentos{
+	background-image:url('https://lh3.googleusercontent.com/qlRvCbBosr_dQPEfORl9ArA3YXj0DBUmOdZhRLPrlrBTWhY3ZcKSGBXE1nKaMCS061g6qIbAKIgA1HkmFEItCA=w1280');
+	background-repeat: no-repeat;
+}
+.divao
+{
+	margin-top:475px;
+	font-size:60px;
+	width: 1080px;
+	float:left;
+	height: 1920px;
+}
+.linhas-totais{
+	padding-top: 100px;
+}
+.linha{
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+	border: 1px solid white;
+	height:160px;
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.nome{
+	float:left;
+	width: 100%;
+	background-color: white;
+	color: black;
+	text-align: center;
+	font-size:40px;
+	height:50%;
+}
+.codigo{
+	float:left;
+	width: 33%;
+}
+.variMais{
+	float:left;
+	width: 33%;
+    color: #00de0d;
+	text-align: center;
+}
+.variMenos{
+	float:left;
+	width: 33%;
+    color: #ec020e;
+	text-align: center;
+}
+.valor{
+	float:right;
+	width: 33%;
+	text-align:right;
+}
